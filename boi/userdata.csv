@@ -1,11 +1,11 @@
 Key,Value
+prefix,Mr
 account_name,RAMA RAO KOTTANA
-Prefix,Mr
 branch_name,Secunderabad
-address_line_1,"H No 6-6-440/3,37/A"
-address_line_2,"GANDHI NAGAR, BEHIND CGO TOWERS"
-address_line_3,SECUNDRABAD - 500080
 account_number,169601000009326
 customer_Id,143527312
-opening_date,"November 1,2022"
-branch_ifsc,BKID0008603
+opening_date,November 1,2022
+ifsc_code,BKID0008603
+address_line_1,H No 6-6-440/3,37/A
+address_line_2,GANDHI NAGAR, BEHIND CGO TOWERS
+address_line_3,SECUNDRABAD - 500080
